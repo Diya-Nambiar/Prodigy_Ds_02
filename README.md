@@ -59,7 +59,7 @@ To perform data cleaning and exploratory data analysis (EDA) on the Titanic data
 ## Conclusion
 This project provided valuable experience in:
 
--Working with imperfect real-world data
--Developing a structured approach to data cleaning
--Using visualization to uncover insights
--Communicating findings clearly and effectively
+- Working with imperfect real-world data
+- Developing a structured approach to data cleaning
+- Using visualization to uncover insights
+- Communicating findings clearly and effectively
